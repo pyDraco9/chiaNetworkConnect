@@ -5,7 +5,7 @@ from time import sleep
 
 import requests
 
-chia_command = 'C:\\Users\\31535\\AppData\\Local\\chia-blockchain\\app-1.1.5\\resources\\app.asar.unpacked\\daemon\\chia.exe show -a'
+chia_command = 'C:\\Users\\yourname\\AppData\\Local\\chia-blockchain\\app-1.1.5\\resources\\app.asar.unpacked\\daemon\\chia.exe show -a'
 
 
 def get_nodes():
