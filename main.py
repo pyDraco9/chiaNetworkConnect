@@ -18,8 +18,8 @@ def get_nodes():
 
 
 if __name__ == '__main__':
-    nodes = get_nodes()
     while True:
+        nodes = get_nodes()
         for node in nodes['nodes']:
             ret = os.system(chia_command + node)
         sleep(60 * 5)
