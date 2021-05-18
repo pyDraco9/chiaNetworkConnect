@@ -1,0 +1,2 @@
+# chiaNetworkConnect
+此脚本用于自动从chia.powerlayout.com获取数据并循环连接到chia网络
